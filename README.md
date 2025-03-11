@@ -1,2 +1,2 @@
-# n8n-Stack
- n8n Stack
+# N8N
+n8n with Docker Compose.
